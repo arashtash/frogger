@@ -32,5 +32,8 @@ Handles the graphical representation of the game using Java Swing.
 KeyboardListener.java
 Listens for keyboard events to control the movement of the frog.
 
-# author
+# Author
 Arash Tashakori
+
+
+[Website and Contact information](https://arashtash.github.io/)
